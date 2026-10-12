@@ -39,7 +39,9 @@ That left 210 games for the main analysis.
 
 ## Data Source
 
-The game-level NBA data came from the `llimllib/nba_data` public GitHub repository, which provides team game logs and advanced NBA statistics.
+The game-level NBA data came from the
+[llimllib/nba_data](https://github.com/llimllib/nba_data)
+public GitHub repository, which provides team game logs and advanced NBA statistics.
 
 For this project, I used the 2024–25 team game log file.
 
